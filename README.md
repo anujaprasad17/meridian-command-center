@@ -4,7 +4,7 @@ A working demo of how one program office can run delivery, program and transform
 
 **All data is invented.** No real organization, patient or system is represented.
 
-**Live demo:** https://github.com/anujaprasad17/meridian-command-center
+**Live demo:** https://github.com/anujaprasad17/meridian-command-center/index.html
 **Case study:** [case-study.md](case-study.md)
 **LinkedIn carousel (PDF):** [LinkedIn-Carousel-Meridian-Command-Center.pdf](LinkedIn-Carousel-Meridian-Command-Center.pdf)
 
